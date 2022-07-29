@@ -8,18 +8,15 @@
 <br>
 <p>Além de alocar meus estudos realizados, tem alguns desafios e projetos pequenos realizados que irei descrever a seguir:</p>
 <br>
+
 ---
+
 - Foi realizado uma calculadora - código alocado na pasta 'aprofundandoFuncoes';
 <br>
-<img alt="calculadora" title="calculadora" scr="
+<img scr = "https://github.com/ludmilaalvespinto/dioJS/blob/main/calculadora.gif">
 
   
  
   
   
-  
-  uma calculadora como projeto alocado na pasta 'aprofundandoFuncoes';
 
-Contagem decrescente automática realizando o loop em desafio 01
-
-Programar através de um botão o Dark / Light Mode em uma página web. 
