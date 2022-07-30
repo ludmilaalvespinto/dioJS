@@ -11,12 +11,16 @@
 
 ---
 
-- Foi realizado uma calculadora - código alocado na pasta 'aprofundandoFuncoes';
+- Foi realizado uma calculadora - código alocado na pasta 'aprofundandoFuncoes' - nela é possível realizar as operações de soma, subtração, divisão, divisão por inteira, e até mesmo potenciação, e inclusive quantas vezes vc quiser: 
 <br>
-<img scr = "https://github.com/ludmilaalvespinto/dioJS/blob/main/calculadora.gif">
-
+<p align="center"> <img alt="gif" src ="https://github.com/ludmilaalvespinto/javaScriptDio/blob/main/src/gifsReadMe/calculadora.gif" width = "500" height"=320"/>
+</p>
   
+ ---
  
+ - Também realizei um projeto - que inclusive pretendo incluir mais elementos, que através de um botão ele altera de light para dark mode: 
+
+<p align="center"><img alt="gif" src="https://github.com/ludmilaalvespinto/javaScriptDio/blob/main/src/gifsReadMe/darkLightMode.gif" width="500" height="320"/>
   
   
 
